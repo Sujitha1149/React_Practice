@@ -1,0 +1,17 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #0f172a;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: #f8fafc;
+  font-family: "Roboto";
+}
+.pic {
+  height: 180px;
+  width: 180px;
+}
